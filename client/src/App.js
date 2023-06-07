@@ -1,15 +1,14 @@
 import React, { useEffect } from "react";
 import axios from "axios";
 
+import { Maincomponent } from "./Components/MainComponent/Maincomponent";
+
 function App() {
-  useEffect(() => {
-    axios
-      .get("http://localhost:4000/category/animals")
-      .then(function (response) {
-        console.log(response);
-      });
-  }, []);
-  return <div className="App">Hello</div>;
+  return (
+    <div className="App">
+      <Maincomponent />
+    </div>
+  );
 }
 
 export default App;
