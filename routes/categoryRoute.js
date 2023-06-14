@@ -22,7 +22,7 @@ categoryRouter.get("/:id", async (req, res) => {
     const collection = db.collection(req.params.id);
 
     // Retrieve all documents in the collection
-    const documents = await collection.find().toArray();
+    const documents = await collection.findOne();
 
     // Send the documents as the response
     res.json(documents);

@@ -1,0 +1,926 @@
+
+    {
+        "category": "animals",
+        "words": [
+             {
+                "word": "Elephant",
+                "taboo": [
+                    "Trunk",
+                    "Tusk",
+                    "Africa",
+                    "Gray",
+                    "Safari"
+                ]
+            },
+            {
+                "word": "Lion",
+                "taboo": [
+                    "Roar",
+                    "Mane",
+                    "King",
+                    "Safari",
+                    "Pride"
+                ]
+            },
+            {
+                "word": "Giraffe",
+                "taboo": [
+                    "Tall",
+                    "Neck",
+                    "Spots",
+                    "Safari",
+                    "Herbivore"
+                ]
+            },
+            {
+                "word": "Monkey",
+                "taboo": [
+                    "Banana",
+                    "Tree",
+                    "Swing",
+                    "Primate",
+                    "Jungle"
+                ]
+            },
+            {
+                "word": "Penguin",
+                "taboo": [
+                    "Tuxedo",
+                    "Waddle",
+                    "Antarctica",
+                    "Flightless",
+                    "Bird"
+                ]
+            },
+            {
+                "word": "Tiger",
+                "taboo": [
+                    "Stripes",
+                    "Roar",
+                    "Jungle",
+                    "Big",
+                    "Endangered"
+                ]
+            },
+            {
+                "word": "Dolphin",
+                "taboo": [
+                    "Intelligent",
+                    "Ocean",
+                    "Flipper",
+                    "Aquatic",
+                    "Mammal"
+                ]
+            },
+            {
+                "word": "Zebra",
+                "taboo": [
+                    "Stripes",
+                    "Africa",
+                    "Herbivore",
+                    "Safari",
+                    "Black-and-white"
+                ]
+            },
+            {
+                "word": "Koala",
+                "taboo": [
+                    "Eucalyptus",
+                    "Australia",
+                    "Tree",
+                    "Marsupial",
+                    "Cute"
+                ]
+            },
+            {
+                "word": "Cheetah",
+                "taboo": [
+                    "Speed",
+                    "Spots",
+                    "Africa",
+                    "Fast",
+                    "Predator"
+                ]
+            },
+            {
+                "word": "Bear",
+                "taboo": [
+                    "Hibernate",
+                    "Grizzly",
+                    "Forest",
+                    "Honey",
+                    "Mammal"
+                ]
+            },
+            {
+                "word": "Owl",
+                "taboo": [
+                    "Nocturnal",
+                    "Wise",
+                    "Hoot",
+                    "Bird",
+                    "Predator"
+                ]
+            },
+            {
+                "word": "Octopus",
+                "taboo": [
+                    "Tentacles",
+                    "Ink",
+                    "Ocean",
+                    "Aquatic",
+                    "Cephalopod"
+                ]
+            },
+            {
+                "word": "Wolf",
+                "taboo": [
+                    "Howl",
+                    "Pack",
+                    "Predator",
+                    "Canine",
+                    "Wildlife"
+                ]
+            },
+            {
+                "word": "Shark",
+                "taboo": [
+                    "Fin",
+                    "Teeth",
+                    "Ocean",
+                    "Predator",
+                    "Jaws"
+                ]
+            },
+            {
+                "word": "Horse",
+                "taboo": [
+                    "Gallop",
+                    "Mane",
+                    "Equine",
+                    "Domesticated",
+                    "Stallion"
+                ]
+            },
+            {
+                "word": "Butterfly",
+                "taboo": [
+                    "Wings",
+                    "Metamorphosis",
+                    "Insect",
+                    "Pollinator",
+                    "Flutter"
+                ]
+            },
+            {
+                "word": "Crocodile",
+                "taboo": [
+                    "Reptile",
+                    "Jaws",
+                    "Swamp",
+                    "Predator",
+                    "Snout"
+                ]
+            },
+            {
+                "word": "Gorilla",
+                "taboo": [
+                    "Primate",
+                    "Jungle",
+                    "Silverback",
+                    "Intelligent",
+                    "Endangered"
+                ]
+            },
+            {
+                "word": "Peacock",
+                "taboo": [
+                    "Colorful",
+                    "Display",
+                    "Tail",
+                    "Bird",
+                    "Plumage"
+                ]
+            },
+            {
+                "word": "Polar Bear",
+                "taboo": [
+                    "Arctic",
+                    "Ice",
+                    "White",
+                    "Mammal",
+                    "Ursus"
+                ]
+            },
+            {
+                "word": "Squirrel",
+                "taboo": [
+                    "Nut",
+                    "Tree",
+                    "Bushy",
+                    "Rodent",
+                    "Scamper"
+                ]
+            },
+            {
+                "word": "Ostrich",
+                "taboo": [
+                    "Wings",
+                    "Fast",
+                    "Africa",
+                    "Largest",
+                    "Running"
+                ]
+            },
+            {
+                "word": "Kangaroo",
+                "taboo": [
+                    "Australia",
+                    "Pouch",
+                    "Hop",
+                    "Marsupial",
+                    "Joey"
+                ]
+            },
+            {
+                "word": "Ox",
+                "taboo": [
+                    "Farm",
+                    "Horn",
+                    "Strong",
+                    "Cattle",
+                    "Work"
+                ]
+            },
+            {
+                "word": "Rabbit",
+                "taboo": [
+                    "Ears",
+                    "Hop",
+                    "Carrot",
+                    "Bunny",
+                    "Burrow"
+                ]
+            },
+            {
+                "word": "Hippopotamus",
+                "taboo": [
+                    "River",
+                    "Water",
+                    "Mammal",
+                    "Large",
+                    "Africa"
+                ]
+            },
+            {
+                "word": "Deer",
+                "taboo": [
+                    "Antlers",
+                    "Forest",
+                    "Buck",
+                    "Mammal",
+                    "Wild"
+                ]
+            },
+            {
+                "word": "Fox",
+                "taboo": [
+                    "Sly",
+                    "Red",
+                    "Tail",
+                    "Cunning",
+                    "Wild"
+                ]
+            },
+            {
+                "word": "Snake",
+                "taboo": [
+                    "Slither",
+                    "Venom",
+                    "Reptile",
+                    "Fangs",
+                    "Scales"
+                ]
+            },
+            {
+                "word": "Koala",
+                "taboo": [
+                    "Eucalyptus",
+                    "Australia",
+                    "Tree",
+                    "Marsupial",
+                    "Cute"
+                ]
+            },
+            {
+                "word": "Kangaroo",
+                "taboo": [
+                    "Australia",
+                    "Pouch",
+                    "Hop",
+                    "Marsupial",
+                    "Joey"
+                ]
+            },
+            {
+                "word": "Gorilla",
+                "taboo": [
+                    "Primate",
+                    "Jungle",
+                    "Silverback",
+                    "Intelligent",
+                    "Endangered"
+                ]
+            },
+            {
+                "word": "Polar Bear",
+                "taboo": [
+                    "Arctic",
+                    "Ice",
+                    "White",
+                    "Mammal",
+                    "Ursus"
+                ]
+            },
+            {
+                "word": "Turtle",
+                "taboo": [
+                    "Shell",
+                    "Slow",
+                    "Reptile",
+                    "Aquatic",
+                    "Terrapin"
+                ]
+            },
+            {
+                "word": "Bat",
+                "taboo": [
+                    "Nocturnal",
+                    "Wings",
+                    "Mammal",
+                    "Vampire",
+                    "Echo-location"
+                ]
+            },
+            {
+                "word": "Gorilla",
+                "taboo": [
+                    "Primate",
+                    "Jungle",
+                    "Silverback",
+                    "Intelligent",
+                    "Endangered"
+                ]
+            },
+            {
+                "word": "Hippopotamus",
+                "taboo": [
+                    "River",
+                    "Water",
+                    "Mammal",
+                    "Large",
+                    "Africa"
+                ]
+            },
+            {
+                "word": "Toucan",
+                "taboo": [
+                    "Colorful",
+                    "Beak",
+                    "Bird",
+                    "Tropical",
+                    "Rainforest"
+                ]
+            },
+            {
+                "word": "Raccoon",
+                "taboo": [
+                    "Masked",
+                    "Trash",
+                    "Forest",
+                    "Mammal",
+                    "Curious"
+                ]
+            },
+            {
+                "word": "Swan",
+                "taboo": [
+                    "Graceful",
+                    "White",
+                    "Bird",
+                    "Lake",
+                    "Elegant"
+                ]
+            },
+            {
+                "word": "Crab",
+                "taboo": [
+                    "Shell",
+                    "Pinch",
+                    "Ocean",
+                    "Crustacean",
+                    "Beach"
+                ]
+            },
+            {
+                "word": "Chameleon",
+                "taboo": [
+                    "Color",
+                    "Reptile",
+                    "Camouflage",
+                    "Tongue",
+                    "Lizard"
+                ]
+            },
+            {
+                "word": "Gazelle",
+                "taboo": [
+                    "Antelope",
+                    "Horns",
+                    "Fast",
+                    "Africa",
+                    "Herbivore"
+                ]
+            },
+            {
+                "word": "Seahorse",
+                "taboo": [
+                    "Ocean",
+                    "Curved",
+                    "Fish",
+                    "Aquatic",
+                    "Pregnant"
+                ]
+            },
+            {
+                "word": "Elephant",
+                "taboo": [
+                    "Trunk",
+                    "Tusk",
+                    "Africa",
+                    "Gray",
+                    "Safari"
+                ]
+            },
+            {
+                "word": "Tiger",
+                "taboo": [
+                    "Stripes",
+                    "Roar",
+                    "Jungle",
+                    "Big",
+                    "Endangered"
+                ]
+            },
+            {
+                "word": "Koala",
+                "taboo": [
+                    "Eucalyptus",
+                    "Australia",
+                    "Tree",
+                    "Marsupial",
+                    "Cute"
+                ]
+            },
+            {
+                "word": "Ostrich",
+                "taboo": [
+                    "Wings",
+                    "Fast",
+                    "Africa",
+                    "Largest",
+                    "Running"
+                ]
+            },
+            {
+                "word": "Kangaroo",
+                "taboo": [
+                    "Australia",
+                    "Pouch",
+                    "Hop",
+                    "Marsupial",
+                    "Joey"
+                ]
+            },
+            {
+                "word": "Koala",
+                "taboo": [
+                    "Eucalyptus",
+                    "Australia",
+                    "Tree",
+                    "Marsupial",
+                    "Cute"
+                ]
+            },
+            {
+                "word": "Penguin",
+                "taboo": [
+                    "Tuxedo",
+                    "Waddle",
+                    "Antarctica",
+                    "Flightless",
+                    "Bird"
+                ]
+            },
+            {
+                "word": "Tiger",
+                "taboo": [
+                    "Stripes",
+                    "Roar",
+                    "Jungle",
+                    "Big",
+                    "Endangered"
+                ]
+            },
+            {
+                "word": "Dolphin",
+                "taboo": [
+                    "Intelligent",
+                    "Ocean",
+                    "Flipper",
+                    "Aquatic",
+                    "Mammal"
+                ]
+            },
+            {
+                "word": "Zebra",
+                "taboo": [
+                    "Stripes",
+                    "Africa",
+                    "Herbivore",
+                    "Safari",
+                    "Black-and-white"
+                ]
+            },
+            {
+                "word": "Koala",
+                "taboo": [
+                    "Eucalyptus",
+                    "Australia",
+                    "Tree",
+                    "Marsupial",
+                    "Cute"
+                ]
+            },
+            {
+                "word": "Cheetah",
+                "taboo": [
+                    "Speed",
+                    "Spots",
+                    "Africa",
+                    "Fast",
+                    "Predator"
+                ]
+            },
+            {
+                "word": "Bear",
+                "taboo": [
+                    "Hibernate",
+                    "Grizzly",
+                    "Forest",
+                    "Honey",
+                    "Mammal"
+                ]
+            },
+            {
+                "word": "Owl",
+                "taboo": [
+                    "Nocturnal",
+                    "Wise",
+                    "Hoot",
+                    "Bird",
+                    "Predator"
+                ]
+            },
+            {
+                "word": "Octopus",
+                "taboo": [
+                    "Tentacles",
+                    "Ink",
+                    "Ocean",
+                    "Aquatic",
+                    "Cephalopod"
+                ]
+            },
+            {
+                "word": "Wolf",
+                "taboo": [
+                    "Howl",
+                    "Pack",
+                    "Predator",
+                    "Canine",
+                    "Wildlife"
+                ]
+            },
+            {
+                "word": "Shark",
+                "taboo": [
+                    "Fin",
+                    "Teeth",
+                    "Ocean",
+                    "Predator",
+                    "Jaws"
+                ]
+            },
+            {
+                "word": "Horse",
+                "taboo": [
+                    "Gallop",
+                    "Mane",
+                    "Equine",
+                    "Domesticated",
+                    "Stallion"
+                ]
+            },
+            {
+                "word": "Butterfly",
+                "taboo": [
+                    "Wings",
+                    "Metamorphosis",
+                    "Insect",
+                    "Pollinator",
+                    "Flutter"
+                ]
+            },
+            {
+                "word": "Crocodile",
+                "taboo": [
+                    "Reptile",
+                    "Jaws",
+                    "Swamp",
+                    "Predator",
+                    "Snout"
+                ]
+            },
+            {
+                "word": "Gorilla",
+                "taboo": [
+                    "Primate",
+                    "Jungle",
+                    "Silverback",
+                    "Intelligent",
+                    "Endangered"
+                ]
+            },
+            {
+                "word": "Peacock",
+                "taboo": [
+                    "Colorful",
+                    "Display",
+                    "Tail",
+                    "Bird",
+                    "Plumage"
+                ]
+            },
+            {
+                "word": "Polar Bear",
+                "taboo": [
+                    "Arctic",
+                    "Ice",
+                    "White",
+                    "Mammal",
+                    "Ursus"
+                ]
+            },
+            {
+                "word": "Squirrel",
+                "taboo": [
+                    "Nut",
+                    "Tree",
+                    "Bushy",
+                    "Rodent",
+                    "Scamper"
+                ]
+            },
+            {
+                "word": "Ostrich",
+                "taboo": [
+                    "Wings",
+                    "Fast",
+                    "Africa",
+                    "Largest",
+                    "Running"
+                ]
+            },
+            {
+                "word": "Kangaroo",
+                "taboo": [
+                    "Australia",
+                    "Pouch",
+                    "Hop",
+                    "Marsupial",
+                    "Joey"
+                ]
+            },
+            {
+                "word": "Ox",
+                "taboo": [
+                    "Farm",
+                    "Horn",
+                    "Strong",
+                    "Cattle",
+                    "Work"
+                ]
+            },
+            {
+                "word": "Rabbit",
+                "taboo": [
+                    "Ears",
+                    "Hop",
+                    "Carrot",
+                    "Bunny",
+                    "Burrow"
+                ]
+            },
+            {
+                "word": "Hippopotamus",
+                "taboo": [
+                    "River",
+                    "Water",
+                    "Mammal",
+                    "Large",
+                    "Africa"
+                ]
+            },
+            {
+                "word": "Deer",
+                "taboo": [
+                    "Antlers",
+                    "Forest",
+                    "Buck",
+                    "Mammal",
+                    "Wild"
+                ]
+            },
+            {
+                "word": "Fox",
+                "taboo": [
+                    "Sly",
+                    "Red",
+                    "Tail",
+                    "Cunning",
+                    "Wild"
+                ]
+            },
+            {
+                "word": "Snake",
+                "taboo": [
+                    "Slither",
+                    "Venom",
+                    "Reptile",
+                    "Fangs",
+                    "Scales"
+                ]
+            },
+            {
+                "word": "Koala",
+                "taboo": [
+                    "Eucalyptus",
+                    "Australia",
+                    "Tree",
+                    "Marsupial",
+                    "Cute"
+                ]
+            },
+            {
+                "word": "Kangaroo",
+                "taboo": [
+                    "Australia",
+                    "Pouch",
+                    "Hop",
+                    "Marsupial",
+                    "Joey"
+                ]
+            },
+            {
+                "word": "Gorilla",
+                "taboo": [
+                    "Primate",
+                    "Jungle",
+                    "Silverback",
+                    "Intelligent",
+                    "Endangered"
+                ]
+            },
+            {
+                "word": "Polar Bear",
+                "taboo": [
+                    "Arctic",
+                    "Ice",
+                    "White",
+                    "Mammal",
+                    "Ursus"
+                ]
+            },
+            {
+                "word": "Turtle",
+                "taboo": [
+                    "Shell",
+                    "Slow",
+                    "Reptile",
+                    "Aquatic",
+                    "Terrapin"
+                ]
+            },
+            {
+                "word": "Bat",
+                "taboo": [
+                    "Nocturnal",
+                    "Wings",
+                    "Mammal",
+                    "Vampire",
+                    "Echo-location"
+                ]
+            },
+            {
+                "word": "Gorilla",
+                "taboo": [
+                    "Primate",
+                    "Jungle",
+                    "Silverback",
+                    "Intelligent",
+                    "Endangered"
+                ]
+            },
+            {
+                "word": "Hippopotamus",
+                "taboo": [
+                    "River",
+                    "Water",
+                    "Mammal",
+                    "Large",
+                    "Africa"
+                ]
+            },
+            {
+                "word": "Toucan",
+                "taboo": [
+                    "Colorful",
+                    "Beak",
+                    "Bird",
+                    "Tropical",
+                    "Rainforest"
+                ]
+            },
+            {
+                "word": "Raccoon",
+                "taboo": [
+                    "Masked",
+                    "Trash",
+                    "Forest",
+                    "Mammal",
+                    "Curious"
+                ]
+            },
+            {
+                "word": "Swan",
+                "taboo": [
+                    "Graceful",
+                    "White",
+                    "Bird",
+                    "Lake",
+                    "Elegant"
+                ]
+            },
+            {
+                "word": "Crab",
+                "taboo": [
+                    "Shell",
+                    "Pinch",
+                    "Ocean",
+                    "Crustacean",
+                    "Beach"
+                ]
+            },
+            {
+                "word": "Chameleon",
+                "taboo": [
+                    "Color",
+                    "Reptile",
+                    "Camouflage",
+                    "Tongue",
+                    "Lizard"
+                ]
+            },
+            {
+                "word": "Gazelle",
+                "taboo": [
+                    "Antelope",
+                    "Horns",
+                    "Fast",
+                    "Africa",
+                    "Herbivore"
+                ]
+            },
+            {
+                "word": "Seahorse",
+                "taboo": [
+                    "Ocean",
+                    "Curved",
+                    "Fish",
+                    "Aquatic",
+                    "Pregnant"
+                ]
+            }
+        ]
+    }
